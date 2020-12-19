@@ -1,4 +1,4 @@
-### 👋 Hello! Im Sezda, Preferably known as "ava"
+### 👋 Hello! Im FadeAwayCodes, Preferably known as "ava"
 
 # 😍 Socials!
 
@@ -12,8 +12,8 @@
 
 > ❌ Discord Bot List
 > ❌ Discord Server List
-> ✔ Discord Bot Maker (CURRENTLY WORKING ON)
-> ❌ Getting kytoon to like me again.
+> ✔ Discord Bot Maker (Click me to go to it)[https://sixpgmaker.herokuapp.com]
+> ✔ Getting kytoon to like me again.
 
 ### 🔴 This is me. Yep, Me is me.
 
