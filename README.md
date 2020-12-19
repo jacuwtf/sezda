@@ -12,7 +12,7 @@
 
 > ❌ Discord Bot List
 > ❌ Discord Server List
-> ✔ Discord Bot Maker (Click me to go to it)[https://sixpgmaker.herokuapp.com]
+> ✔ Discord Bot Maker [Click me To go](https://sixpgmaker.herokuapp.com)
 > ✔ Getting kytoon to like me again.
 
 ### 🔴 This is me. Yep, Me is me.
